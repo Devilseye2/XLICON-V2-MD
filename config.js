@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94714201875', 'vihanga.xx', true], 
-  ['94752799279', 'vix', true]
+  ['254718382876', 'vihanga.xx', true], 
+  ['254113419479', 'vix', true]
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "254718382875" //put your bot number here
 
-global.mods = ['94714201875', '94752799279']
-global.prems = ['94714201875', '94752799279']
-global.allowed = ['94714201875', '94752799279']
+global.mods = ['254718382875', '254113419479']
+global.prems = ['254718382875', '254113419479']
+global.allowed = ['254718382875', '254113419479']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'ᗩKEᑎO-ᗰᗪ🧚‍♀️'
 global.premium = 'true'
-global.packname = '🅷🅸🅶🅷 🆂🅲🅷🅾🅾🅻 🅳🆇🅳 🆃🅴🅰🅼' 
+global.packname = '🅷🅸🅶🅷 LOL🅾🅻 🅳🆇🅳 🆃🅴🅰🅼' 
 global.author = '@VIHANGA.XX'
 global.menuvid = 'https://telegra.ph/file/aabbd017dcf168416f48b.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaNfBn1AYlUT1QXdr31B\n' 
